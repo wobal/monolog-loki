@@ -1,5 +1,5 @@
 {
-  "name": "vyuldashev/monolog-loki",
+  "name": "wobal/monolog-loki",
   "description": "Grafana Loki Handler for Monolog",
   "type": "library",
   "license": "MIT",
